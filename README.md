@@ -1,2 +1,3 @@
 # Machine-Learning-Exercises
-# Just simple exercises, aiming at captcha recognition.
+Just simple exercises.  
+Currently nothing in this branch. View other branches of this repository!  
